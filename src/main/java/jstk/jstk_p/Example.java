@@ -7,7 +7,8 @@ public class Example {
 	
 	//comment to new-branch
 	
-	//another comWent
+	//another comWPent
+
 
 	//comment on master
 }
