@@ -6,6 +6,8 @@ public class Example {
 	
 	
 	//comment to new-branch
+	
+	//another comment
 
 	//comment on master
 }
