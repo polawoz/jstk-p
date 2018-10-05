@@ -11,4 +11,5 @@ public class Example {
 
 
 	//comment on master
+	//after this comment should rebased changes should be shown
 }
